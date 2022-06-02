@@ -43,6 +43,9 @@
     ],
     "name": "Track Cash",
     "short_name": "Trackie",
+    "orientation": "portrait",
+    "display": "standalone",
+    "description": "an app that allows you to track your expenses offline",
     "start_url": "../index.html",
     "background_color": "#01579b",
     "theme_color": "#ffffff"
