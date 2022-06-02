@@ -17,7 +17,7 @@
 ## Installation
 
 Follow the link below, and download the app to your mobile or desktop
-
+https://obscure-atoll-25805.herokuapp.com/
 ## Usage
   
 Enter expenses or deopists and watch your graph change
